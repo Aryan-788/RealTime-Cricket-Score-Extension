@@ -33,6 +33,7 @@ Welcome to the **RealTime Cricket Score Extension**! This Chrome extension allow
 - **HTML**: Structure and layout of the extension.
 - **CSS**: Styling and appearance.
 - **JavaScript**: Fetching live data from the cricket API and updating the UI.
+- **JSON**: Data format used for API responses.
 - **CricAPI**: Source of live cricket match data.
 
 ## Contributing
