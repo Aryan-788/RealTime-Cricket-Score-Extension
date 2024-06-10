@@ -1,0 +1,12 @@
+{
+    "name": "RealTime Cricket Score Extension",
+    "version": "1.0",
+    "description": "View live cricket scores directly from your browser.",
+    "manifest_version": 3,
+    "author": "Aryan Narayan",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon" : "logo.jpg",
+        "default_title": "Live Cricket Scores"
+    }
+}
