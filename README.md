@@ -46,9 +46,6 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 5. Push to the branch (`git push origin feature-branch`).
 6. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License.
 
 ## Author
 
